@@ -10,7 +10,7 @@ header {
   background-color: darkgoldenrod;
 }
 
-main {
+#main {
   width: 1000px;
   height: 600px;
   background-color: darkseagreen;
